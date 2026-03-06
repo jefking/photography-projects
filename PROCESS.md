@@ -1,6 +1,6 @@
 1. Image Review
 - remove photos that don't meet rating system (Archive)
-- WIP: Current Year: 2017 - Current Photo: 5808
+- WIP: Current Year: 2019 - Current Photo: 270
 
 2. Image Dup
 - De-dup photos to try to condense to the best...
