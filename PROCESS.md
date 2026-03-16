@@ -1,7 +1,6 @@
 1. Image Review
 - remove photos that don't meet rating system (Archive)
-- WIP: Current Year: 2019 - Current Photo: 270
-
+- WIP: Current Year: 2022 - Current Photo:  0
 2. Image Dup
 - De-dup photos to try to condense to the best...
 
@@ -18,6 +17,8 @@
 
 1. Back up images on Mirrored External (SSD)
 ```sudo rsync -rltDv --delete --progress /home/jef/Pictures/photos/inprogress/ /media/jef/1.44.1-72806/photos/inprogress/```
+1. Back up videos on Mirrored External (SSD)
+```sudo rsync -rltDv --delete --progress /home/jef/Videos/videos/ /media/jef/1.44.1-72806/video```
 
 1. Back up to Mirrored External (HDD)
 ```sudo rsync -rltDv --delete --progress /home/jef/Pictures/photos/inprogress/ /media/jef/bk.bk/photos/inprogress/```
